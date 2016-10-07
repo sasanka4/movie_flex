@@ -1,0 +1,4 @@
+
+<%@page session="true"%>
+
+${JSON}
